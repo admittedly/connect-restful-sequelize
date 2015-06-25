@@ -62,4 +62,34 @@ describe("connect-restful-sequelize", function(){
 
 		});		
 	});
+
+	it.skip("must provide a create method", function(){
+		
+	});
+
+	describe("that provides a create method", function(){
+		it.skip("must return a record after it is created", function(){
+
+		});
+	});
+
+	it.skip("must provide an update method", function(){
+		
+	});
+
+	describe("that provides an update method", function(){
+		it.skip("must return a record after it is updated", function(){
+
+		});
+	});
+
+	it.skip("must provide an delete method", function(){
+		
+	});
+
+	describe("that provides an delete method", function(){
+		it.skip("must not return a record after it is deleted", function(){
+
+		});
+	});
 });
